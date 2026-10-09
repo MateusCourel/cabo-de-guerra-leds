@@ -4,8 +4,8 @@ Jogo para dois jogadores feito com **ESP32** e **duas matrizes de LED WS2812B 16
 
 <!-- Coloque as fotos em docs/fotos/ com estes nomes (veja docs/fotos/LEIA-ME.md) -->
 <p align="center">
-  <img src="docs/fotos/jogo.jpg" alt="Jogo funcionando" width="45%">
-  <img src="docs/fotos/tela-go.jpg" alt="Tela inicial com GO" width="45%">
+  <img src="docs/fotos/jogo.jpeg" alt="Jogo funcionando" width="45%">
+  <img src="docs/fotos/tela-go.jpeg" alt="Tela inicial com GO" width="45%">
 </p>
 
 ---
