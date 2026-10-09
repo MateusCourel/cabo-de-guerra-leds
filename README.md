@@ -128,11 +128,6 @@ O buzzer ficou mais baixo no ESP32 (3,3V contra 5V do Nano). Uma forma de compen
 
 ---
 
-## 🚀 Próximos passos
-
-- [ ] Caixa definitiva para levar o jogo a eventos
-- [ ] Conversor de nível 74AHCT125 para o sinal de dados
-- [ ] Buzzer com transistor (ou alto-falante + amplificador) para mais volume
 - [ ] Placar com melhor de 3 partidas
 
 ---
