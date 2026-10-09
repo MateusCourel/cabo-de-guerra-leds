@@ -128,8 +128,4 @@ O buzzer ficou mais baixo no ESP32 (3,3V contra 5V do Nano). Uma forma de compen
 
 ---
 
-- [ ] Placar com melhor de 3 partidas
-
----
-
 <p align="center">Feito com muitos LEDs, alguns fios derretidos e trabalho em equipe 💡</p>
