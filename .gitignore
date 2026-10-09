@@ -1,0 +1,9 @@
+# Arquivos de compilação / IDEs
+build/
+*.bin
+*.elf
+*.hex
+.vscode/
+.pio/
+.DS_Store
+Thumbs.db
