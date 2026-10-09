@@ -16,8 +16,8 @@ Projeto feito em equipe:
 
 | Quem | O que fez |
 |---|---|
-| **Professor [Nome do professor]** | Ideia do projeto e compra dos materiais |
-| **[Nome do amigo]** | Montagem eletrônica dos componentes |
+| **Professor Ricardo Rall** | Ideia do projeto e compra dos materiais |
+| **Davi Rodrigo de Miranda** | Montagem eletrônica dos componentes |
 | **Mateus Antonio Courel** ([@MateusCourel](https://github.com/MateusCourel)) | Programação |
 
 ---
